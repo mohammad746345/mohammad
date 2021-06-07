@@ -1,0 +1,31 @@
+
+  
+  .buttonn{
+	background:#eb9544;
+	color:#fff;
+	border:none;
+	position:relative;
+	height:60px;
+	font-size:1.6em;
+	padding:0 2em;
+	cursor:pointer;
+	transition:800ms ease all;
+	outline:none;
+	float: left;
+	border-radius: 20px;
+	bottom: 25px;
+
+  }
+ @media screen and (max-width: 960px) {
+    .buttonn {
+      left: 5px;
+
+    }
+}
+  .buttonn:hover{
+	background:#ff6a00;
+	color:#ffffff;
+	
+  }
+  
+  
